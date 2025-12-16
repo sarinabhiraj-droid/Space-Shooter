@@ -1,3 +1,6 @@
+Abhiraj Sarin
+Matriculation Number = 10006793
+
 Readme for Space Shooter(Python & Pygame)
 
 Description
